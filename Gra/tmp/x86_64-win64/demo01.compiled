@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\2.6.4\bin\x86_64-win64\fpc.exe" Date="1195665052"/>
+  <Params Value=" -MDelphi -Scghi -CX -O3 -Xs -XX -WG -l -vn- -vh- -vewibq &quot;-FiC:\Users\Łukasz\Documents\A Game\Gra-2015-12-27\Gra\tmp\x86_64-win64&quot; -FiC:\zengl-src-0.3.12\headers -FuC:\zengl-src-0.3.12\headers -FuC:\zengl-src-0.3.12\extra -FuC:\zengl-src-0.3.12\src -FuC:\zengl-src-0.3.12\lib\jpeg\x86_64-win64 -FuC:\zengl-src-0.3.12\lib\msvcrt\x86_64 -FuC:\zengl-src-0.3.12\lib\ogg\x86_64-win64 -FuC:\zengl-src-0.3.12\lib\theora\x86_64-win64 -FuC:\zengl-src-0.3.12\lib\zlib\x86_64-win64 -FuC:\zengl-src-0.3.12\lib\zip\x86_64-win64 &quot;-FuC:\Users\Łukasz\Documents\A Game\Gra-2015-12-27\Gra\ZGL\&quot; &quot;-FUC:\Users\Łukasz\Documents\A Game\Gra-2015-12-27\Gra\tmp\x86_64-win64\&quot; &quot;-FEC:\Users\Łukasz\Documents\A Game\Gra-2015-12-27\Gra\ZGL\SpaceInvaders\&quot; -oSpaceInvaders.exe demo01.pas"/>
+</CONFIG>

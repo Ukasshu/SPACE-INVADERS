@@ -1,0 +1,64 @@
+=================================
+=== ZenGL 0.3.12 (2013.08.12) ===
+=================================
+[00000000ms] Begin
+[00000001ms] Current mode: 1280 x 800
+[00000106ms] wglChoosePixelFormatARB: zDepth = 24; stencil = 0; fsaa = 0
+[00000170ms] GL_VERSION: 2.0.6645 WinXP Release
+[00000171ms] GL_RENDERER: ATI RADEON XPRESS 1100 x86/SSE2
+[00000171ms] GL_MAX_TEXTURE_SIZE: 2048
+[00000171ms] GL_EXT_TEXTURE_COMPRESSION_S3TC: TRUE
+[00000171ms] GL_SGIS_GENERATE_MIPMAP: TRUE
+[00000171ms] GL_MAX_TEXTURE_UNITS_ARB: 8
+[00000171ms] GL_EXT_TEXTURE_FILTER_ANISOTROPIC: TRUE
+[00000171ms] GL_MAX_TEXTURE_MAX_ANISOTROPY_EXT: 16
+[00000171ms] GL_EXT_BLEND_FUNC_SEPARATE: TRUE
+[00000172ms] GL_MAX_RENDERBUFFER_SIZE: 2048
+[00000172ms] GL_EXT_FRAMEBUFFER_OBJECT: TRUE
+[00000172ms] WGL_PBUFFER: TRUE
+[00000172ms] Support WaitVSync: TRUE
+[00000172ms] Ogg: Initialized
+[00000172ms] Theora: Initialized
+[00000268ms] WARNING: Cannot set fullscreen mode: 1280x720
+[00000268ms] DirectSound: loading DSound.dll
+[00000526ms] DirectSound: sound system initialized
+[00000914ms] Sound loaded: "sounds/menumusic.ogg"
+[00002718ms] Sound loaded: "sounds/gamemusic.ogg"
+[00002732ms] Sound loaded: "sounds/laser.ogg"
+[00002744ms] Sound loaded: "sounds/damage.ogg"
+[00002773ms] Sound loaded: "sounds/reload.ogg"
+[00002787ms] Sound loaded: "sounds/heal.ogg"
+[00002802ms] Sound loaded: "sounds/shield.ogg"
+[00002815ms] Sound loaded: "sounds/coin.ogg"
+[00002839ms] Sound loaded: "sounds/rewind.ogg"
+[00002870ms] Sound loaded: "sounds/gameover.ogg"
+[00002930ms] Sound loaded: "sounds/applause.ogg"
+[00003023ms] Texture loaded: "textures/bg.png"
+[00003076ms] Texture loaded: "textures/title.png"
+[00003079ms] Texture loaded: "textures/digits.png"
+[00003080ms] Texture loaded: "textures/heart.png"
+[00003179ms] Texture loaded: "textures/bg2.png"
+[00003191ms] Texture loaded: "textures/buttons.png"
+[00003193ms] Texture loaded: "textures/player.png"
+[00003194ms] Texture loaded: "textures/bonuses.png"
+[00003194ms] Texture loaded: "textures/ab.png"
+[00003194ms] Texture loaded: "textures/eb.png"
+[00003304ms] Texture loaded: "textures/gameover.png"
+[00003417ms] Texture loaded: "textures/gameover2.png"
+[00003527ms] Texture loaded: "textures/HS.png"
+[00003529ms] Texture loaded: "textures/level.png"
+[00003530ms] Texture loaded: "textures/en1.png"
+[00003531ms] Texture loaded: "textures/en2.png"
+[00003531ms] Texture loaded: "textures/en3.png"
+[00003532ms] Texture loaded: "textures/en4.png"
+[00003533ms] Texture loaded: "textures/en5.png"
+[00003534ms] Texture loaded: "textures/en6.png"
+[00003535ms] Texture loaded: "textures/en7.png"
+[00003536ms] Texture loaded: "textures/en8.png"
+[00003537ms] Texture loaded: "textures/en9.png"
+[00004559ms] Average FPS: 109
+[00004559ms] Timers to free: 2
+[00004559ms] Textures to free: 24
+[00004572ms] Sounds to free: 11
+[00004587ms] DirectSound: sound system finalized
+[00004613ms] End

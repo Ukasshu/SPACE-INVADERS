@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Release"/>
+    <Units Count="2">
+      <Unit0>
+        <Filename Value="demo01.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="311"/>
+        <CursorPos X="35" Y="328"/>
+        <UsageCount Value="158"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="siclasses.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="SIclasses"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="73"/>
+        <CursorPos X="10" Y="98"/>
+        <UsageCount Value="134"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit1>
+    </Units>
+  </ProjectSession>
+</CONFIG>
